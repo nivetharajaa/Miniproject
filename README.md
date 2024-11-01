@@ -1,58 +1,71 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Got It -Summerzier Using Gen AI
+As very individual thinks,every things need to be easy and understandable every situation .Here, we have our Summarizer using GenAI to make your work easier and get you more understandable .
+A summarizer powered by GenAI helps simplify long texts or documents ,making it easier for people to quickly grasp the main points without losing essential information.
+
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+To develop a multi-language summarization tool powered by Generative AI to address these challenges, enabling users to quickly generate summaries, identify key sections, and work with content in different languages.
+To summarize and make your context in a understandable format to the user that will be more convenient to recognize.
+
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+~ Multi-Language Support
+~ Keyword Extraction
+~ Community and Documentation
+~ Pre-trained Models
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+# Software
+~ Python 3.7 or higher
+~ PyTorch or TensorFlow
+~ Streamlit
+~ PyMuPDF
+~ gTTS (Google Text-to-Speech)
+# Hardware
+~ CPU
+~ RAM
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![380480753-b68ae8f4-47df-42ad-b338-a168146e1770](https://github.com/user-attachments/assets/1b043f61-1e73-40c9-9575-1973bd6ffa82)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - User Interface
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![380480876-a40c8c8c-69e3-4f59-bb5c-495a6ff6117c](https://github.com/user-attachments/assets/eb92c4d8-3e48-42e7-bc1f-d0a60ccfe096)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - Overview Output
+![380481829-f96be778-9c52-4dca-9dd5-6b2da8c985f3](https://github.com/user-attachments/assets/cfeed599-11f7-4066-9d4f-6f2c7491df41)
+
+
+#### Output3 - Supported languages
+![380481509-b3c78795-7f3d-44e8-b4c6-756f0b3736ff](https://github.com/user-attachments/assets/f3155539-87bc-4839-9600-e159ebc24156)
+
+
+#### Output4 - keyword extraction
+![380481839-5fd30ee3-1b67-48a1-8138-226094fc9e99](https://github.com/user-attachments/assets/cbf9e48f-9a8b-4dbf-b82d-1cc0e3a25fd0)
+
+
+
+#### Output5 - Document summarization
+
+![380481938-faf471e4-f898-4b7a-a53e-077cd76bf4e2](https://github.com/user-attachments/assets/3f3b460e-1737-421c-baf7-c7e1d984cb13)
+
 
 Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The "Summarizer using GenAI" project showcases the immense potential of artificial intelligence in transforming the way users consume and process information. The system provides an efficient, multilingual solution to summarize both text and documents, reducing the time and effort required to comprehend large volumes of content. With the integration of advanced models like mBART for multilingual text processing and OpenAI’s GPT for contextual understanding, the tool generates concise, accurate, and meaningful summaries in multiple languages such as English, Tamil, Hindi, and French. This makes it highly versatile and useful for a wide range of users across various industries and regions.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+K. F. Victor and I. Z. Michael, “Intelligent data analysis and machine learning: Are they really equivalent Concepts?,” in 2017 Second Russia and Pacific Conference on Computer Technology and Applications (RPC), 2017, pp. 59–63.
+Uppala Sai Sudeep, Kandra Narasimha Naidu, Pulagam Sai Girish, Tatineni Naga Nikesh, Ch Sunanda . Brain Tumor Classification using a Support Vector Machine. International Journal of Computer Applications. 184, 28 ( Sep 2022), 15-17. 
+
+
+
 
 
 
